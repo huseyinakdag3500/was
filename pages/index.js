@@ -24,13 +24,17 @@ export default function Home() {
     </div>
     <style jsx global>{`
   body {
-    background-color:rgb(0, 0, 0); /* İstediğin renk kodunu buraya yaz */
+    background-color:rgb(0, 0, 0); 
   }
 `}</style>
 
       <style jsx>{`
+      body{
+      display:flex;
+          align-items:center;
+          justify-content:center;}
         .container {
-          max-width: 900px;
+          
           margin: 40px auto;
           text-align: center;
           font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
@@ -49,6 +53,9 @@ export default function Home() {
           margin-bottom: 30px;
         }
         .map-wrapper {
+        display:flex;
+          align-items:center;
+          justify-content:center;
           border: 0px solid #ddd;
           border-radius: 12px;
           padding: 15px;
