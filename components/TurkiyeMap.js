@@ -1116,6 +1116,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
         .svg-container {
           max-width: 900px;
           margin: auto;
+          max-height: 450px
         }
         .turkiye-svg {
           width: 100%;

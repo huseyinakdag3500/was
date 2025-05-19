@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import TurkiyeMap from "../components/TurkiyeMap";
-
+import Countdown from "../components/Countdown";
 
 export default function Home() {
   const [colors, setColors] = useState({});
@@ -18,6 +18,10 @@ export default function Home() {
       <div className="map-wrapper">
         <TurkiyeMap colors={colors} />
       </div>
+       <div className="container">
+      <Countdown />
+      
+    </div>
     <style jsx global>{`
   body {
     background-color:rgb(0, 0, 0); /* İstediğin renk kodunu buraya yaz */
@@ -45,10 +49,10 @@ export default function Home() {
           margin-bottom: 30px;
         }
         .map-wrapper {
-          border: 1px solid #ddd;
+          border: 0px solid #ddd;
           border-radius: 12px;
           padding: 15px;
-          background: #fafafa;
+          background:rgb(0, 0, 0);
           box-shadow: 0 3px 12px rgb(0 0 0 / 0.1);
         }
         @media (max-width: 600px) {
@@ -62,4 +66,5 @@ export default function Home() {
       `}</style>
     </div>
   );
+  
 }
