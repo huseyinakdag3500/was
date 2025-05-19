@@ -18,23 +18,30 @@ export default function Home() {
       <div className="map-wrapper">
         <TurkiyeMap colors={colors} />
       </div>
-       <div className="container">
-      <Countdown />
-      
-    </div>
-    <style jsx global>{`
-  body {
-    background-color:rgb(0, 0, 0); 
-  }
-`}</style>
+      <div className="container">
+        <div className="countdown">
+          <Countdown />
+        </div>
+      </div>
+      <style jsx global>{`
+        body {
+          background-color: rgb(0, 0, 0);
+        }
+      `}</style>
 
       <style jsx>{`
-      body{
-      display:flex;
-          align-items:center;
-          justify-content:center;}
+        body {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+        }
+        .countdown {
+        position:fixed;;
+          top: 0;
+          right: 0;
+        }
         .container {
-          
+        max-width:1300px;
           margin: 40px auto;
           text-align: center;
           font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
@@ -53,13 +60,13 @@ export default function Home() {
           margin-bottom: 30px;
         }
         .map-wrapper {
-        display:flex;
-          align-items:center;
-          justify-content:center;
+          display: flex;
+          align-items: center;
+          justify-content: center;
           border: 0px solid #ddd;
           border-radius: 12px;
           padding: 15px;
-          background:rgb(0, 0, 0);
+          background: rgb(0, 0, 0);
           box-shadow: 0 3px 12px rgb(0 0 0 / 0.1);
         }
         @media (max-width: 600px) {
@@ -73,5 +80,4 @@ export default function Home() {
       `}</style>
     </div>
   );
-  
 }
