@@ -961,7 +961,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
         }
         svg text{
         
-        fill:green;
+        fill:black;
         font-weight: 600;
         
         
