@@ -287,6 +287,8 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
           </g>
         </g>
        
+        
+       
         <text
     x="511.54103088378906"
     y="332.44757080078125"
@@ -294,9 +296,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    01
-  </text>
+  >Adana</text>
   <text
     x="658.9214172363281"
     y="307.2935791015625"
@@ -304,9 +304,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    02
-  </text>
+  >Adıyaman</text>
   <text
     x="252.00750732421875"
     y="253.03055572509766"
@@ -314,19 +312,15 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    03
-  </text>
+  >Afyonkarahisar</text>
   <text
     x="919.1811828613281"
-    y="183.26202392578125"
+    y="170.26202392578125"
     text-anchor="middle"
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    04
-  </text>
+  >Ağrı</text>
   <text
     x="520.8563232421875"
     y="116.94900512695312"
@@ -334,9 +328,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    05
-  </text>
+  >Amasya</text>
   <text
     x="344.11842346191406"
     y="180.67709350585938"
@@ -344,19 +336,15 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    06
-  </text>
+  >Ankara</text>
   <text
     x="257.50142669677734"
-    y="375.4685821533203"
+    y="350.4685821533203"
     text-anchor="middle"
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    07
-  </text>
+  >Antalya</text>
   <text
     x="834.2146606445312"
     y="82.87849807739258"
@@ -364,9 +352,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    08
-  </text>
+  >Artvin</text>
   <text
     x="102.08251953125"
     y="294.2459411621094"
@@ -374,19 +360,15 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    09
-  </text>
+  >Aydın</text>
   <text
-    x="104.72249984741211"
-    y="100.30057144165039"
+    x="110.72249984741211"
+    y="160.30057144165039"
     text-anchor="middle"
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    10
-  </text>
+  >Balıkesir</text>
   <text
     x="232.1344985961914"
     y="146.18900680541992"
@@ -394,9 +376,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    11
-  </text>
+  >Bilecik</text>
   <text
     x="777.970947265625"
     y="224.4590301513672"
@@ -404,9 +384,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    12
-  </text>
+  >Bingöl</text>
   <text
     x="868.4426574707031"
     y="253.56851196289062"
@@ -414,9 +392,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    13
-  </text>
+  >Bitlis</text>
   <text
     x="305.1273651123047"
     y="116.70051574707031"
@@ -424,9 +400,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    14
-  </text>
+  >Bolu</text>
   <text
     x="217.0749969482422"
     y="329.0836486816406"
@@ -434,9 +408,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    15
-  </text>
+  >Burdur</text>
   <text
     x="173.64702987670898"
     y="142.58100128173828"
@@ -444,9 +416,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    16
-  </text>
+  >Bursa</text>
   <text
     x="56.05700492858887"
     y="139.51744079589844"
@@ -454,9 +424,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    17
-  </text>
+  >Çanakkale</text>
   <text
     x="398.10450744628906"
     y="115.62053298950195"
@@ -464,9 +432,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    18
-  </text>
+  >Çankırı</text>
   <text
     x="468.42845153808594"
     y="118.47000885009766"
@@ -474,9 +440,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    19
-  </text>
+  >Çorum</text>
   <text
     x="175.96343994140625"
     y="306.33453369140625"
@@ -484,9 +448,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    20
-  </text>
+  >Denizli</text>
   <text
     x="759.1331176757812"
     y="282.9485549926758"
@@ -494,9 +456,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    21
-  </text>
+  >Diyarbakır</text>
   <text
     x="52.01399803161621"
     y="49.771499156951904"
@@ -504,9 +464,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    22
-  </text>
+  >Edirne</text>
   <text
     x="711.6785583496094"
     y="242.97891998291016"
@@ -514,19 +472,15 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    23
-  </text>
+  >Elazığ</text>
   <text
     x="719.5967712402344"
-    y="188.80294036865234"
+    y="175.80294036865234"
     text-anchor="middle"
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    24
-  </text>
+  >Erzincan</text>
   <text
     x="816.1111145019531"
     y="149.24449157714844"
@@ -534,9 +488,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    25
-  </text>
+  >Erzurum</text>
   <text
     x="274.8299255371094"
     y="180.8315200805664"
@@ -544,9 +496,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    26
-  </text>
+  >Eskişehir</text>
   <text
     x="601.8574829101562"
     y="354.92491149902344"
@@ -554,29 +504,23 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    27
-  </text>
+  >Gaziantep</text>
   <text
     x="665.8289794921875"
-    y="122.71685028076172"
+    y="110.71685028076172"
     text-anchor="middle"
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    28
-  </text>
+  >Giresun</text>
   <text
     x="710.9920654296875"
     y="135.92351913452148"
     text-anchor="middle"
     alignment-baseline="middle"
     fill="black"
-    font-size="10"
-  >
-    29
-  </text>
+    font-size="7"
+  >Gümüşhane</text>
   <text
     x="967.3992309570312"
     y="316.7530212402344"
@@ -584,9 +528,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    30
-  </text>
+  >Hakkâri</text>
   <text
     x="546.8014221191406"
     y="402.7525634765625"
@@ -594,9 +536,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    31
-  </text>
+  >Hatay</text>
   <text
     x="258.3209915161133"
     y="295.4960479736328"
@@ -604,9 +544,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    32
-  </text>
+  >Isparta</text>
   <text
     x="417.6788787841797"
     y="380.7576141357422"
@@ -614,9 +552,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    33
-  </text>
+  >Mersin</text>
   <text
     x="199.9515151977539"
     y="80.17200088500977"
@@ -624,29 +560,23 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    34
-  </text>
+  >İstanbul</text>
   <text
     x="153.47401428222656"
-    y="60.3329963684082"
+    y="65.3329963684082"
     text-anchor="middle"
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    34
-  </text>
+  >İstanbul</text>
   <text
     x="75.74399185180664"
-    y="232.02996826171875"
+    y="255.02996826171875"
     text-anchor="middle"
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    35
-  </text>
+  >İzmir</text>
   <text
     x="891.1726989746094"
     y="112.83749008178711"
@@ -654,9 +584,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    36
-  </text>
+  >Kars</text>
   <text
     x="416.9264831542969"
     y="64.35400199890137"
@@ -664,9 +592,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    37
-  </text>
+  >Kastamonu</text>
   <text
     x="529.8371887207031"
     y="262.3365783691406"
@@ -674,9 +600,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    38
-  </text>
+  >Kayseri</text>
   <text
     x="103.51900482177734"
     y="28.651997551321983"
@@ -684,9 +608,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    39
-  </text>
+  >Kırklareli</text>
   <text
     x="433.2059631347656"
     y="207.74600219726562"
@@ -694,9 +616,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    40
-  </text>
+  >Kırşehir</text>
   <text
     x="220.0274887084961"
     y="92.989990234375"
@@ -704,9 +624,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    41
-  </text>
+  >Kocaeli</text>
   <text
     x="365.88499450683594"
     y="294.12406158447266"
@@ -714,9 +632,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    42
-  </text>
+  >Konya</text>
   <text
     x="194.57650756835938"
     y="195.38050079345703"
@@ -724,9 +640,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    43
-  </text>
+  >Kütahya</text>
   <text
     x="651.4454345703125"
     y="259.8750228881836"
@@ -734,9 +648,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    44
-  </text>
+  >Malatya</text>
   <text
     x="116.46196746826172"
     y="228.48705291748047"
@@ -744,9 +656,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    45
-  </text>
+  >Manisa</text>
   <text
     x="586.7542724609375"
     y="304.36207580566406"
@@ -754,9 +664,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    46
-  </text>
+  >Kahramanmaraş</text>
   <text
     x="795.5956726074219"
     y="336.33653259277344"
@@ -764,9 +672,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    47
-  </text>
+  >Mardin</text>
   <text
     x="128.55200576782227"
     y="350.8185577392578"
@@ -774,9 +680,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    48
-  </text>
+  >Muğla</text>
   <text
     x="845.4425659179688"
     y="221.41851043701172"
@@ -784,19 +688,15 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    49
-  </text>
+  >Muş</text>
   <text
     x="461.6982879638672"
-    y="238.21875"
+    y="250.21875"
     text-anchor="middle"
     alignment-baseline="middle"
     fill="black"
-    font-size="10"
-  >
-    50
-  </text>
+    font-size="8"
+  >Nevşehir</text>
   <text
     x="463.0904998779297"
     y="305.30853271484375"
@@ -804,9 +704,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    51
-  </text>
+  >Niğde</text>
   <text
     x="608.0639953613281"
     y="111.03699493408203"
@@ -814,9 +712,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    52
-  </text>
+  >Ordu</text>
   <text
     x="784.1024475097656"
     y="93.16597747802734"
@@ -824,9 +720,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    53
-  </text>
+  >Rize</text>
   <text
     x="250.21998596191406"
     y="103.88999938964844"
@@ -834,9 +728,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    54
-  </text>
+  >Sakarya</text>
   <text
     x="534.1434326171875"
     y="74.99850463867188"
@@ -844,9 +736,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    55
-  </text>
+  >Samsun</text>
   <text
     x="864.5040893554688"
     y="292.3290252685547"
@@ -854,9 +744,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    56
-  </text>
+  >Siirt</text>
   <text
     x="477.69140625"
     y="50.03149604797363"
@@ -864,9 +752,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    57
-  </text>
+  >Sinop</text>
   <text
     x="603.1019592285156"
     y="192.44796752929688"
@@ -874,9 +760,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    58
-  </text>
+  >Sivas</text>
   <text
     x="96.90899276733398"
     y="70.29599189758301"
@@ -884,9 +768,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    59
-  </text>
+  >Tekirdağ</text>
   <text
     x="561.7658233642578"
     y="131.5864372253418"
@@ -894,9 +776,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    60
-  </text>
+  >Tokat</text>
   <text
     x="729.4851684570312"
     y="103.41898345947266"
@@ -904,9 +784,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    61
-  </text>
+  >Trabzon</text>
   <text
     x="722.1484680175781"
     y="212.14016723632812"
@@ -914,19 +792,15 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    62
-  </text>
+  >Tunceli</text>
   <text
     x="697.5758056640625"
-    y="338.34130859375"
+    y="350.34130859375"
     text-anchor="middle"
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    63
-  </text>
+  >Şanlıurfa</text>
   <text
     x="182.59297943115234"
     y="245.7705535888672"
@@ -934,9 +808,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    64
-  </text>
+  >Uşak</text>
   <text
     x="937.8648681640625"
     y="243.8458480834961"
@@ -944,9 +816,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    65
-  </text>
+  >Van</text>
   <text
     x="487.5564270019531"
     y="188.08953094482422"
@@ -954,9 +824,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    66
-  </text>
+  >Yozgat</text>
   <text
     x="319.6409454345703"
     y="70.84149551391602"
@@ -964,19 +832,15 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    67
-  </text>
+  >Zonguldak</text>
   <text
     x="418.1212158203125"
-    y="261.80806732177734"
+    y="280.80806732177734"
     text-anchor="middle"
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    68
-  </text>
+  >Aksaray</text>
   <text
     x="751.4006652832031"
     y="140.0179901123047"
@@ -984,9 +848,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    69
-  </text>
+  >Bayburt</text>
   <text
     x="384.59043884277344"
     y="360.70851135253906"
@@ -994,19 +856,15 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    70
-  </text>
+  >Karaman</text>
   <text
     x="414.85150146484375"
     y="170.58849334716797"
     text-anchor="middle"
     alignment-baseline="middle"
     fill="black"
-    font-size="10"
-  >
-    71
-  </text>
+    font-size="8"
+  >Kırıkkale</text>
   <text
     x="824.4888000488281"
     y="286.31610107421875"
@@ -1014,9 +872,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    72
-  </text>
+  >Batman</text>
   <text
     x="884.9745788574219"
     y="321.8979187011719"
@@ -1024,9 +880,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    73
-  </text>
+  >Şırnak</text>
   <text
     x="355.1874542236328"
     y="52.37249755859375"
@@ -1034,9 +888,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    74
-  </text>
+  >Bartın</text>
   <text
     x="885.2625122070312"
     y="73.54249382019043"
@@ -1044,9 +896,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    75
-  </text>
+  >Ardahan</text>
   <text
     x="950.7915649414062"
     y="149.89652252197266"
@@ -1054,9 +904,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    76
-  </text>
+  >Iğdır</text>
   <text
     x="183.31348419189453"
     y="108.62300491333008"
@@ -1064,9 +912,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    77
-  </text>
+  >Yalova</text>
   <text
     x="361.79441833496094"
     y="77.83249092102051"
@@ -1074,9 +920,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    78
-  </text>
+  >Karabük</text>
   <text
     x="594.9766235351562"
     y="374.0969696044922"
@@ -1084,9 +928,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    79
-  </text>
+  >Kilis</text>
   <text
     x="548.97998046875"
     y="341.6659851074219"
@@ -1094,9 +936,7 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    80
-  </text>
+  >Osmaniye</text>
   <text
     x="293.1935119628906"
     y="97.11849212646484"
@@ -1104,9 +944,10 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
     alignment-baseline="middle"
     fill="black"
     font-size="10"
-  >
-    81
-  </text>
+  >Düzce</text>
+
+
+ 
 
 
       </svg>
@@ -1114,9 +955,16 @@ export default function TurkiyeMap({ colors = {}, onRegionClick }) {
 
        <style jsx>{`
         .svg-container {
-          max-width: 900px;
+          width: 100%;
           margin: auto;
-          max-height: 450px
+          
+        }
+        svg text{
+        
+        fill:green;
+        font-weight: 600;
+        
+        
         }
         .turkiye-svg {
           width: 100%;
